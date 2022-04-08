@@ -16,8 +16,4 @@ bash.sh ip.sh <aqui pondras la ip que quieres saber info>
 ejemplo bash ip.sh 102.221.334
   
 
-  #sigueme en mis redes sociales
-  ig magic.qqqq
-  telegram magicboyq
-  
   
